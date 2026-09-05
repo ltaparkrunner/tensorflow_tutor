@@ -1,0 +1,23 @@
+Tensor Flow:
+
+    Image Classification
+    Data Clustering
+    Regression
+    Reinforcement Learning
+    Natural Language Processing
+
+In tensorflow we have Graphs and Sessions
+
+We have class DatasetInfo(builtins.object) and class class dict(object)
+class DataFrame(pandas.core.generic.NDFrame, pandas.core.arraylike.OpsMixin)
+
+Full metadata summary df.info()Prints index, columns, null-counts, and types.
+Row and column counts df.shape(3, 3)
+Column data types df.dtypesName: object, Age: int64...
+List of column names df.columnsIndex(['Name', 'Age', 'Salary'], dtype='object')
+Statistical summary df.describe()Descriptive stats for numerical columns (mean, min, max).
+
+key machine learning algorithms:
+    cover regression and classification, and clustering (K-Means)
+    hidden markov models
+    
