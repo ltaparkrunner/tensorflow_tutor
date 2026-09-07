@@ -20,4 +20,18 @@ Statistical summary df.describe()Descriptive stats for numerical columns (mean, 
 key machine learning algorithms:
     cover regression and classification, and clustering (K-Means)
     hidden markov models
-    
+
+Neural Networks are divided to Sequential, Recurrent, Convolutional
+Convolutional layer, Pooling layer.
+
+convolutional                     ---            шагать           сверточный
+padding                                                     подкладка
+pooling                                                     объединение
+stride                                                      шагать, перешагнуть
+dense layer                                                 плотный слой
+
+data augmentation                                           расширение данных
+sentiment analysis                                          анализ настроений
+Recurrent Neural Networks                                   Рекуррентные нейронные сети
+character/text generation                                   
+bag of words
